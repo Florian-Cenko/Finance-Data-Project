@@ -7,26 +7,27 @@
 Stock data is obtained using pandas-datareader, which fetches historical stock prices for each bank.
 We analyze the following institutions:
 
--**Bank of America**
+- **Bank of America**
 
--**CitiGroup**
+- **CitiGroup**
 
--**Goldman Sachs**
+- **Goldman Sachs**
 
--**JPMorgan Chase**
+- **JPMorgan Chase**
 
--**Morgan Stanley**
+- **Morgan Stanley**
 
--**Wells Fargo**
+- **Wells Fargo**
 
 Each bank’s data is stored in a separate Pandas DataFrame, named after its ticker symbol (e.g., BAC for Bank of America).
 
 ## Objectives
--Retrieve historical stock data from January 1, 2006 to January 1, 2016 using pandas_datareader
--Explore daily stock prices, trading volumes, and trends over time
--Visualize bank stock performance during the financial crisis (2007–2008)
--Compare key financial metrics across multiple banks
--Practice data cleaning, manipulation, and visualization with real financial data
+
+- Retrieve historical stock data from January 1, 2006 to January 1, 2016 using pandas_datareader
+- Explore daily stock prices, trading volumes, and trends over time
+- Visualize bank stock performance during the financial crisis (2007–2008)
+- Compare key financial metrics across multiple banks
+- Practice data cleaning, manipulation, and visualization with real financial data
 
 ## Tech Stack
 - Python
