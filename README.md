@@ -49,7 +49,7 @@ pip install name of libraries
 python FinanceMain.py
 ```
 ## Notes
--Make sure to use the latest working data source for pandas_datareader (as APIs may change)
--You can check the latest supported sources in the official documentation: https://pandas-datareader.readthedocs.io/en/latest/remote_data.html
--A pickle file with pre-fetched data is also provided in the course resources to avoid fetching issues
+- Make sure to use the latest working data source for pandas_datareader (as APIs may change)
+- You can check the latest supported sources in the official documentation: https://pandas-datareader.readthedocs.io/en/latest/remote_data.html
+- A pickle file with pre-fetched data is also provided in the course resources to avoid fetching issues
 
