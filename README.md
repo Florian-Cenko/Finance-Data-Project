@@ -8,15 +8,10 @@ Stock data is obtained using pandas-datareader, which fetches historical stock p
 We analyze the following institutions:
 
 - **Bank of America**
-
 - **CitiGroup**
-
 - **Goldman Sachs**
-
 - **JPMorgan Chase**
-
 - **Morgan Stanley**
-
 - **Wells Fargo**
 
 Each bank’s data is stored in a separate Pandas DataFrame, named after its ticker symbol (e.g., BAC for Bank of America).
